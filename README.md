@@ -1,4 +1,4 @@
-static
+ static
 ======
 
 A example to loading basic HTML in NodeJS
